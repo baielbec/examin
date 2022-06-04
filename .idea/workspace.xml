@@ -4,43 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac5f66d1-f90b-473c-9f08-5858fe115624" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/examin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/postcss.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/API/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/Basket/Basket.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/Details/shopDetails.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/Footer/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/Header/Header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/Home/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/Categories.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/basketCardProduct.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/booksCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/categoryCartBooks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/images/09434c5f-21b1-4546-bfd1-e9798c3ecebc.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/images/2020100815.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/images/image 160 (Traced).svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/images/w816h301-crop-stretch-daa78d98.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/redux/action/action.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/redux/reducer/reducer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/redux/store/store.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/redux/type/type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/style/Header/Header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/src/style/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examin/tailwind.config.js" beforeDir="false" />
-    </list>
+    <list default="true" id="ac5f66d1-f90b-473c-9f08-5858fe115624" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/examin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -111,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1654232848890</updated>
       <workItem from="1654232850595" duration="506000" />
-      <workItem from="1654233486458" duration="20518000" />
+      <workItem from="1654233486458" duration="21312000" />
     </task>
     <servers />
   </component>
