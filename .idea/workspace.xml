@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac5f66d1-f90b-473c-9f08-5858fe115624" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/examin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/API/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/Basket/Basket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/Details/shopDetails.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/Footer/Footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/Header/Header.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/Home/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/Categories.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/basketCardProduct.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/booksCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/companents/card/categoryCartBooks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/images/09434c5f-21b1-4546-bfd1-e9798c3ecebc.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/images/2020100815.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/images/image 160 (Traced).svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/images/w816h301-crop-stretch-daa78d98.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/redux/action/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/redux/reducer/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/redux/store/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/redux/type/type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/style/Header/Header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/src/style/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examin/tailwind.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/examin" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2A3KV2KkqrCIIBBfWyF62WVGjAW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Baiel\WebstormProjects\exam-lit\src" />
+      <recent name="C:\Users\Baiel\WebstormProjects\exam-lit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac5f66d1-f90b-473c-9f08-5858fe115624" name="Changes" comment="" />
+      <created>1654232848890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654232848890</updated>
+      <workItem from="1654232850595" duration="506000" />
+      <workItem from="1654233486458" duration="19852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
